@@ -1,4 +1,4 @@
-# Heart Rate & Breathing Rate Radar & ECG Signals
+# Heart Rate & Breathing Rate Measurement based-on Radar & ECG Signals
 
 This repository contains algorithms for measurement of heart rate and breathing rate from radar (Infenion Sense2Gol Demo) and ECG (NodeMCU-AD8232).
 
